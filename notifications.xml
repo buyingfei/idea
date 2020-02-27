@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="mybatisCodeHelper" shouldLog="false" />
+    <notification groupId="mybatisCodeHelper" displayType="NONE" shouldLog="false" />
+    <notification groupId="Outdated IDE Version" displayType="NONE" shouldLog="false" />
   </component>
 </application>
