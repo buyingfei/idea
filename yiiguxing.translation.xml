@@ -1,11 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRESENT" />
+      <item value="Returns a power of two size for the given target capacity" />
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="Additionally, if the table array has not been allocated" />
+      <item value="The next size value at which to resize" />
+      <item value="nonpositive" />
+      <item value="IllegalArgumentException if the initial capacity is negative" />
+      <item value="the load factor is nonpositive" />
       <item value="Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
