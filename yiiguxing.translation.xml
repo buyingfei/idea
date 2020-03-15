@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="params" />
       <item value="Semaphore" />
       <item value="acquire" />
       <item value="Count Down Latch" />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
