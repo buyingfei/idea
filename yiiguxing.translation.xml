@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="autowired" />
       <item value="params" />
       <item value="Semaphore" />
       <item value="acquire" />
